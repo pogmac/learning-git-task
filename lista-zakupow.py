@@ -19,3 +19,5 @@ for k, v in lista_zakupow.items():
 
 print();print(f"W sumie kupuję {sump} produktów");print()
 
+print("To jest tekst zmian na 2 commit")
+
