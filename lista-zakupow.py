@@ -19,4 +19,5 @@ for k, v in lista_zakupow.items():
             print(f" {lista_zakupow[k][i].capitalize()}")     
 print(f"W sumie kupuję {sump} produktów")
 
-print("new comment 18:04 2023-01-02")
+print("Pozdrowienia dla Patryka 19:29 2023-01-02")
+
