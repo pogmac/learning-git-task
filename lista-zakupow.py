@@ -23,3 +23,4 @@ print("new comment 18:04 2023-01-02")
 print("'Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona")
 
 print("new comment 18:17 2023-01-02")
+print("new comment 18:18 2023-01-02")
