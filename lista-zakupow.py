@@ -20,3 +20,5 @@ for k, v in lista_zakupow.items():
 print(f"W sumie kupuję {sump} produktów")
 
 print("new comment 18:04 2023-01-02")
+
+print("'Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona")
